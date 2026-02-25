@@ -15,4 +15,4 @@ Trabalhei basicamente com as tecnologias fundamentais da web: HTML5 e CSS3. Tamb
 
 Este trabalho foi muito importante para mim, pois pude colocar em prática conceitos como o modelo de caixa (box model), responsividade e a criação de formulários que não são apenas funcionais, mas também bonitos.
 
-Desenvolvido com dedicação por Stéfane.v
+Desenvolvido com dedicação por Stéfane.
